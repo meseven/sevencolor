@@ -10,6 +10,7 @@
   "private": false,
   "dependencies": {
     "bootstrap": "^3.3.0",
-    "jquery": "~3.2.0"
+    "jquery": "~3.2.0",
+    "sevencolor": "^0.0.2"
   }
 }
